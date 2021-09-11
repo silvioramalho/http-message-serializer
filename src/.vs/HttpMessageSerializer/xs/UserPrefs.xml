@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6FDAA298-F6CE-4498-8DB8-CCA53298D219}|Default">
+  <MonoDevelop.Ide.ItemProperties.HttpMessageSerializer.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpMessageSerializer.API/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="HttpMessageSerializer.API/IHttpMessageSerializer.cs" Line="13" Column="75" />
+      <File FileName="HttpMessageSerializer.API/APIService.cs" />
+      <File FileName="HttpMessageSerializer.API/Controllers/WeatherForecastController.cs" Line="63" Column="1" />
+      <File FileName="HttpMessageSerializer.API/Startup.cs" />
+      <File FileName="HttpMessageSerializer.API/Program.cs" />
+      <File FileName="HttpMessageSerializer.API/MessageContentHttpMessageSerializer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HttpMessageSerializer" expanded="True">
+            <Node name="HttpMessageSerializer.API" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/silvioramalho/dev/dotnet/http-message-serializer/src/HttpMessageSerializer.API/Controllers/AnimeController.cs" relfile="HttpMessageSerializer.API/Controllers/AnimeController.cs" line="35" column="1" />
+      <Breakpoint file="/Users/silvioramalho/dev/dotnet/http-message-serializer/src/HttpMessageSerializer.API/Controllers/WeatherForecastController.cs" relfile="HttpMessageSerializer.API/Controllers/WeatherForecastController.cs" line="75" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

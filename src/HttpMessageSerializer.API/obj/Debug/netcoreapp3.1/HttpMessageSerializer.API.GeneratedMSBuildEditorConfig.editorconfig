@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HttpMessageSerializer.API
+build_property.ProjectDir = /Users/silvioramalho/dev/dotnet/http-message-serializer/src/HttpMessageSerializer.API/
